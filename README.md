@@ -1,4 +1,9 @@
-# 这里只是用来写开发规范  
+> [!IMPORTANT]
+> This is my first project in Github. I have achived it as a memento.
+> It is also the work for `2025江门市中小学生创新大赛`.
+> And we won the second prize in the coding group.
+
+这里只是用来写开发规范  
 不要写任何代码  
 ！！！！！！！！
 ## 命名规范
